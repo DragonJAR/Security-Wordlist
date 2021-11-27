@@ -134,6 +134,7 @@ caballero
 cabeza
 cabrera
 caceres
+cadena
 cadenas
 caicedo
 calama
@@ -860,6 +861,7 @@ torrijos
 total
 tovar
 travieso
+trejo
 trejos
 treminio
 treviño
