@@ -13,7 +13,7 @@ aguirre
 agustin
 agustín
 ahumada
-aimara)
+aimara
 alamilla
 alanis
 alarcon
@@ -233,14 +233,13 @@ cáceres
 cárdenas
 céspedes
 d
-d'aubuisson
 daniel
 dario
 darío
 davila
 daza
 de alba
-la
+la fuente
 fuente
 rosa
 del
@@ -705,7 +704,7 @@ páramo
 páramos
 pérez
 q
-quechua)
+quechua
 quellon
 quellón
 quesada
@@ -975,3 +974,4 @@ zuleta
 zuluaga
 zuñiga
 zúñiga
+zuniga
