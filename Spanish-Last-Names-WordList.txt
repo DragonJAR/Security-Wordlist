@@ -1,8 +1,11 @@
 a
-álvarez
-ángel
-ángeles
-ávila
+afanador
+angarita
+anteliz
+armesto
+arrieta
+ascanio
+aycardi
 acevedo
 acosta
 acuña
@@ -70,7 +73,14 @@ astudillo
 avila
 avilés
 ayala
+álvarez
+ángel
+ángeles
+ávila
 b
+barreto
+batista
+botello
 baca
 baena
 baez
@@ -130,6 +140,14 @@ bustos
 báez
 béjar
 c
+carrascal
+casadiegos
+castilla
+cañizares
+chindoy
+claro
+clavijo
+criado
 caballero
 cabeza
 cabrera
@@ -239,9 +257,6 @@ darío
 davila
 daza
 de alba
-la fuente
-fuente
-rosa
 del
 delgado
 diaz
@@ -260,6 +275,7 @@ durán
 dávila
 díaz
 e
+espinel
 echeverria
 echeverría
 elizondo
@@ -289,6 +305,7 @@ estrada
 estrella
 estévez
 f
+fandiño
 fabregas
 fajardo
 falcon
@@ -315,10 +332,13 @@ franco
 frias
 friego
 frías
+fuente
 fuentes
 funez
 fábregas
 g
+gaona
+gravier
 gaitan
 gaitán
 galan
@@ -411,6 +431,8 @@ isla
 ivañez
 izquierdo
 j
+jacome
+jaime
 jaimes
 jara
 jaramillo
@@ -423,6 +445,9 @@ junco
 jurado
 juárez
 l
+laiseca
+luqueta
+la fuente
 labastida
 lacayo
 lafuente
@@ -474,6 +499,8 @@ lández
 lázaro
 lópez
 m
+mandiel
+mayela
 macedo
 machado
 macias
@@ -568,6 +595,8 @@ márquez
 méndez
 múgica
 n
+noreña
+numa
 naranjo
 narvaez
 narváez
@@ -589,6 +618,9 @@ novo
 novoa
 núñez
 o
+oliveros
+orellano
+ovallos
 obellon
 obellón
 obregon
@@ -628,6 +660,13 @@ oviedo
 ozuno
 oñate
 p
+pareja
+perea
+peñaranda
+posada
+prado
+prado
+puentes
 pacheco
 padilla
 paez
@@ -639,8 +678,8 @@ palencia
 palma
 palomar
 palomino
-paniagua
 pampa
+paniagua
 pantoja
 parado
 paramo
@@ -722,6 +761,7 @@ quiroga
 quiroz
 quispe
 r
+remolina
 ramirez
 ramon
 ramos
@@ -758,6 +798,7 @@ roman
 romero
 román
 roncevalles
+rosa
 rosales
 rosas
 rosellón
@@ -770,6 +811,7 @@ rueda
 ruiz
 ríos
 s
+Sabarain
 saavedra
 sabin
 sabín
@@ -837,6 +879,9 @@ sáenz
 sáez
 sánchez
 t
+torrado
+trigos
+trillos
 tablada
 talagante
 talavera
@@ -882,6 +927,7 @@ urrutia
 usaga
 uveda
 v
+verjel
 valdes
 valdiva
 valdivia
@@ -951,6 +997,8 @@ vásquez
 vázquez
 vélez
 vívez
+whell
+woodbine
 y
 yañez
 yáñez
@@ -972,6 +1020,6 @@ zelaya
 zetina
 zuleta
 zuluaga
+zuniga
 zuñiga
 zúñiga
-zuniga
